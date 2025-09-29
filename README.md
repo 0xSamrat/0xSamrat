@@ -12,8 +12,7 @@ class Samrat:
       ],      
       'production_languages': [
         'Golang', 'Javascript'
-        'Typescript', 'Solidity' 
-        'Bash'
+        'Typescript', 'Solidity'
       ],
       'databases': ['MySQL', 'MongoDB'],
       'others' : ['Kafka', 'Redis'],
