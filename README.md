@@ -2,7 +2,7 @@
 ### I am Samrat.
 
 - I am a software developer and blockchain developer based in Bangalore, India.
-- I founded `@Defipe-io` — a perpetual futures DEX built in Go, with an off-chain orderbook and on-chain settlement. At its peak it was serving 500 monthly active users, and won a grant + [`@Soonami` venturethon cohort 5](https://app.foundance.org/projects/11247).
+- I founded `@Defipe-io` — a perpetual futures DEX built in Go, with an off-chain orderbook. At its peak it was serving 500 monthly active users, and won a grant + [`@Soonami` venturethon cohort 5](https://app.foundance.org/projects/11247).
 - Previously worked as a Backend / Blockchain Engineer `@AtumLabs`.
 - I built [`@useicebreakr`](https://useicebreakr.com/) — turns any LinkedIn profile into a personalized outreach message: research, hooks, and a ready-to-send DM in one click.
 - I built [`@NetaGiriFiles`](https://www.netagirifiles.fun/) (>500 visitors/month) — a civic tech platform that surfaces Indian politicians' publicly declared affidavit data through searchable visualizations and a public API.
